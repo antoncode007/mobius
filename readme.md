@@ -1,2 +1,2 @@
 # Mobius
-Use it to explore, learn get an intuition about AI, build autonomous agents to operate your life
+Use it to explore, build an intuition about AI, and create autonomous agents to operate your life
